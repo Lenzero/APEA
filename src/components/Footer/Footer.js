@@ -27,7 +27,11 @@ class Footer extends Component {
             <ul className="footer-menu">
               <li>
                 <a href="#pablo" onClick={(e) => e.preventDefault()}>
+<<<<<<< HEAD
                   Home my home
+=======
+                  Home
+>>>>>>> d99acca60c4728ffbdee5deb7eebaadaf9982a35
                 </a>
               </li>
               <li>
